@@ -1,5 +1,5 @@
 import React, {useState,useEffect} from "react"
-import Dice from "./components/Dice";
+import Dice from "./Dice";
 function App() {
   const [dices, setDices] = useState(allDices()) // dices container
   const [gameWon,setGameWon] = useState(false) //checks for game end

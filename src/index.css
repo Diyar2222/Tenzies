@@ -46,6 +46,7 @@ body {
   font-weight: 600;
   color:#2B283A;
   font-family: 'Karla', sans-serif;
+  cursor: pointer;
 }
 .hold {
   background-color: #59E391;
